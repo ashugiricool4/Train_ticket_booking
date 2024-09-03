@@ -24,7 +24,7 @@ Ensure that you have Node.js and npm installed on your machine.
 
 1. **Clone the repository**:
    bash
-   git clone https://github.com/ashugiricool4/Tran_ticket_booking/tree/main
+   git clone https://github.com/ashugiricool4/Train_ticket_booking/tree/main
    cd train-seat-booking
    
 
