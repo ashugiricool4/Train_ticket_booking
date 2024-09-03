@@ -24,7 +24,7 @@ Ensure that you have Node.js and npm installed on your machine.
 
 1. **Clone the repository**:
    bash
-   git clone https://github.com/yourusername/train-seat-booking.git
+   git clone https://github.com/ashugiricool4/Tran_ticket_booking/tree/main
    cd train-seat-booking
    
 
@@ -60,6 +60,9 @@ This application is deployed on Vercel. To deploy the application yourself, you 
      vercel
      ```
    - Follow the prompts to set up and deploy your project.
+  
+     https://train-booking-577pfmhxc-ashugiricool4s-projects.vercel.app/
+     
 
 2. **Production Deployment**:
    - To deploy to production, use:
@@ -89,6 +92,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 If you have any questions or issues, feel free to open an issue on https://abhishekgiri.com/ or contact me at [ashugiricool4@gmail.com].
 
-
+## Functionality and working is shown through images, kindly check it.
 
 
