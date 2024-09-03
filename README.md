@@ -1,4 +1,4 @@
-# Tran_ticket_booking
+# Train_ticket_booking
 
 Certainly! Here's a sample `README.md` file for your Train Seat Booking project:
 
