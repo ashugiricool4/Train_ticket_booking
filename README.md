@@ -49,9 +49,9 @@ Follow these instructions to set up the project locally.
 
 ### Prerequisites
 
-- **Node.js** (version 14 or higher)
-- **Git**
-- **SQLite** (optional, for local development)
+- Node.js (version 14 or higher)
+- Git
+- SQLite (optional, for local development)
 
 ### Installation
 
@@ -131,4 +131,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to the [Node.js](https://nodejs.org) and [Express](https://expressjs.com) communities for their excellent documentation and tutorials.
 ```
 
-## https://abhishekgiri.com/
+**https://abhishekgiri.com/**
